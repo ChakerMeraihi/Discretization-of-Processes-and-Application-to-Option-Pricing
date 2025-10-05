@@ -1,5 +1,5 @@
 %% Master of Quantitative Finance
-% Approximation of processes: MATLAB Implementation (Enhanced Version)
+% Approximation of processes: MATLAB Implementation
 % 
 % This script implements the numerical methods described in the theoretical
 % solutions for the tp_DISCR_M2QF.pdf assignment.
