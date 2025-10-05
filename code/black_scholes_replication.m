@@ -1,5 +1,5 @@
 %% Financial Mathematics
-% Black-Scholes Model and Option Replication: MATLAB Implementation (Enhanced Version)
+% Black-Scholes Model and Option Replication: MATLAB Implementation
 % 
 % This script implements the numerical methods described in the theoretical
 % solutions for the TP_1_FINUM_2024.pdf assignment.
